@@ -1,14 +1,14 @@
-# streming-api
+# streaming-api
 streaming-API script for Aruba Central
 
 # **Linux** #
 ### Update package ###
 ```
 sudo apt update 
-
 sudo apt install git -y
+sudo apt install curl -y
 
-git clone https://github.com/aakmit/streaming-api.git
+git clone https://github.com/aakmit/streming-api.git
 
 cd streming-api/
 
@@ -21,7 +21,9 @@ tar xfvz streaming-elk.tar.gz
 
 cd docker_elk-github/
 
-
 ```
 
-
+### Run docker-compose  ###
+```
+docker compose up -d
+```
