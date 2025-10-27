@@ -1,9 +1,15 @@
 # streming-api
 streaming-API script for Aruba Central
 
-**Linux**
-## Update package ##
+# **Linux** #
+### Update package ###
+```
+sudo apt update 
 
-sudo apt update
-sudo apt install gh -y
+sudo apt install git -y
+
+git clone https://github.com/aakmit/streaming-api.git
+
+```
+
 
