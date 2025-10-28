@@ -18,7 +18,7 @@ chmod +x install_docker_ubuntu.sh
 ```
 ### Extract the docker-compose and script file ###
 ```
-tar xfvz streaming-elk.tar.gz
+tar xfvz elk_docker.tar.gz
 
 cd docker_elk-github/
 ```
