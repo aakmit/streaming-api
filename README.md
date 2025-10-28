@@ -8,9 +8,9 @@ sudo apt update
 sudo apt install git -y
 sudo apt install curl -y
 
-git clone https://github.com/aakmit/streming-api.git
+git clone https://github.com/aakmit/streaming-api.git
 
-cd streming-api/
+cd streaming-api/
 
 chmod +x install_docker_ubuntu.sh
 ./install_docker_ubuntu.sh
