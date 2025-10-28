@@ -82,6 +82,18 @@ you will be using "customer_id" as a index pattern
 
 <img width="790" height="375" alt="2025-10-28_23-15-32" src="https://github.com/user-attachments/assets/8a29c144-d414-4bd6-a5db-6cd77095c29b" />
 
-<img width="1295" height="290" alt="2025-10-28_23-15-50" src="https://github.com/user-attachments/assets/2d549472-f763-4a7a-80b7-111df3315275" />
+<img width="1420" height="280" alt="2025-10-28_23-19-00" src="https://github.com/user-attachments/assets/e34845d3-10e4-48e1-83ec-b0d608ec6c44" />
+
+```
+Then Click "Create index pattern
+Now, Back to Discover --> you start to see the treaming data from Aruba-Central.
+```
+<img width="1920" height="637" alt="2025-10-28_23-20-51" src="https://github.com/user-attachments/assets/fbde7fb3-cb23-4882-a11a-86fbeea79106" />
+
+
+# Creating a custom dashboaard
+<img width="1908" height="577" alt="2025-10-28_23-28-28" src="https://github.com/user-attachments/assets/b30f64d5-31cf-417a-a185-e43d5496a1fc" />
+
+
 
 
