@@ -33,8 +33,8 @@ cd docker_elk-github/
 
 
 ```
-2. Edit the json configuration under directory
-    # cd "code/streaming-api-client"
+2. Edit the json configuration name "input2.json"
+# cd "code/streaming-api-client"
 3. use text editor, ie nano/vi to update your Token
 example:
 {
