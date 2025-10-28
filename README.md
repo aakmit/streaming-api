@@ -59,4 +59,29 @@ example:
 ```
 <img width="1530" height="204" alt="2025-10-28_00-15-29" src="https://github.com/user-attachments/assets/1adab238-6ae5-4820-b912-2bc837b71eb2" />
 
+### Check if your Docker container is running ###
+```
+You should see all status are up.
+```
+<img width="1819" height="284" alt="2025-10-28_23-11-29" src="https://github.com/user-attachments/assets/8c450da4-2061-456e-b52f-de7ccc43e45d" />
+
+### Try to access your ELK container ###
+```
+- https://your-IP/FQDN
+- you should see the Elastic web portal
+- then start configure your ELK--> " Click "Add integration"
+```
+<img width="931" height="744" alt="2025-10-28_23-13-33" src="https://github.com/user-attachments/assets/de7be78e-64f7-4bea-b8dc-32d5a9c1e6e7" />
+
+# Creating index pattern receviced from Aruba-Central 
+```
+you will be using "customer_id" as a index pattern
+
+```
+<img width="373" height="364" alt="2025-10-28_23-15-17" src="https://github.com/user-attachments/assets/3bc3d720-67d2-4c07-b944-2cdb21e54f34" />
+
+<img width="790" height="375" alt="2025-10-28_23-15-32" src="https://github.com/user-attachments/assets/8a29c144-d414-4bd6-a5db-6cd77095c29b" />
+
+<img width="1295" height="290" alt="2025-10-28_23-15-50" src="https://github.com/user-attachments/assets/2d549472-f763-4a7a-80b7-111df3315275" />
+
 
