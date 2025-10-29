@@ -67,7 +67,7 @@ You should see all status are up.
 
 ### Try to access your ELK container ###
 ```
-- https://your-IP/FQDN
+- https://your-IP or FQDN/
 - you should see the Elastic web portal
 - then start configure your ELK--> " Click "Add integration"
 ```
